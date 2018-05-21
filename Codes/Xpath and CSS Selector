@@ -1,0 +1,12 @@
+XPATH:
+XPath, XML etiketleri içerisinde yer alan verilere ulaşmak için kullanılan ve W3C tarafından geliştirilen bir standarttır.
+XPath sadece XML içerisinde bulunan verilere erişmek için bir standart belirler.
+
+CSS SELECTOR:
+CSS’de selector kavramına değinmek istiyorum. CSS aslında bilindiği üzere bir programlama dili değil,
+bir nevi işaretleme yaptığımız bir dil diyelim. Burada işaretleme yaparken bir takım kurallara uyuyoruz.
+Örneğin bir HTML öğe için işaretleme yaparken direkt olarak HTML öğenin adını kullanıyoruz. h1, h2, p, input vb..
+Bunun yanı sıra .kutu, .cerceve gibi kullanımda da classlara gönderme yapıyoruz.
+Birde # kullanarak #kutu, #cerceve gibi ID içinde gönderme yapabiliyoruz.
+Bu ID ve class kavramını açıklayacağım. Hatta bazı selectorler birden fazla ön tanımlayıcı barınırabiliyorlar da..
+
